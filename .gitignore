@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Environments & secrets
+.env
+*.token*.json
+client_secret*.json
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+name: youtube
+version: 1.0.0
+description: "YouTube Data API v3 integration: Multi-channel management on a single Google account, resumable video upload (Shorts & Long-form), SEO metadata, custom thumbnails, playlist support, and channel monitoring."
+author: "ducanh98x"
+kind: standalone
+provides_tools:
+  - youtube_list_channels
+  - youtube_upload_video
+  - youtube_get_channel
+  - youtube_list_videos
+  - youtube_update_video
+  - youtube_set_default_channel
+  - youtube_status
